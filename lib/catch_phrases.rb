@@ -14,3 +14,4 @@ def link
 end
 def all_phrases
   puts caution
+end
