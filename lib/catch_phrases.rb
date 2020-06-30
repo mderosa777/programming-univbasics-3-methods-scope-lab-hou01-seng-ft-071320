@@ -16,4 +16,6 @@ def all_phrases
   puts phrase
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts status
-  
+   caution ="It's Dangerous To Go Alone! Take This."
+  puts caution
+end
