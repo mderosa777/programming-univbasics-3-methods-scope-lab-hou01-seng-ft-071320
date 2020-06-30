@@ -12,4 +12,5 @@ def link
   puts caution
 end
 def all_phrases
-  
+   phrase = "It's-a me, Mario!"
+  puts phrase
