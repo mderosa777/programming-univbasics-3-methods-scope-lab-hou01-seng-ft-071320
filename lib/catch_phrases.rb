@@ -12,3 +12,5 @@ def link
   caution ="It's Dangerous To Go Alone! Take This."
   puts caution
 end
+def all_phrases
+  puts caution
